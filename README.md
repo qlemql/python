@@ -16,3 +16,6 @@
     print(type(a_float)) = float
     print(type(a_string)) = str
     print(type(a_boolean)) = bool
+
+변수명을 작성할때는 snake case로 작성
+ex) super_long_variable
